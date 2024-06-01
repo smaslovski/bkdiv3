@@ -2,10 +2,10 @@
 [*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
 [*] Sat Jun  1 10:53:39 2024
 [*]
-[dumpfile] "/home/stas/vhdl/bkdiv3/waveforms.ghw"
+[dumpfile] "waveforms.ghw"
 [dumpfile_mtime] "Sat Jun  1 10:52:56 2024"
 [dumpfile_size] 1732
-[savefile] "/home/stas/vhdl/bkdiv3/waveforms.gtkw"
+[savefile] "waveforms.gtkw"
 [timestart] 0
 [size] 1916 1053
 [pos] -1 -1
